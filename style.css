@@ -1,0 +1,125 @@
+body{
+    background:grey;
+}
+.navbar-nav{
+    position:relative;
+    left:1043px;
+}
+.container1{
+    height: 570px;
+    width: 1400px;
+}
+.para1{
+    padding:40px;
+    height:120px;
+}
+
+.image1{
+    padding-top: 50px;
+    height: 290px;
+    width: 380px;
+}
+.card{
+    position:relative;
+    left:12px;
+}
+.form1{
+    position:relative;
+    left:300px;
+}
+.bg1{
+    height:510px;
+    width: 1380px;
+}
+.image2{
+    position: relative;
+    top: 42px;
+    left: 61px;
+}
+.image3{
+    position: relative;
+    top: 42px;
+    left: 61px;
+}
+.image4{
+    position: relative;
+    top: 42px;
+    left: 61px;
+}
+.para2{
+    margin: 71px;
+    margin-left: 11px;
+}
+.para3{
+    margin: 71px;
+    margin-left: 11px;
+}
+.para4{
+    margin: 71px;
+    margin-left: 11px;
+
+}
+.form{
+   
+    background: rgb(0, 190, 142);
+    height:480px;
+    width: 410px;
+    box-shadow: 0px 4px 8px salmon;
+    border-radius: 20px;
+}
+.input-group1{
+    margin:40px;
+}
+.input-group2{
+    margin:40px;
+}
+.input-group3{
+    margin:40px;
+}
+button{
+    margin:40px;
+}
+
+.footer{
+    background: black;
+    text-align:center;
+    color:white;
+}
+.card:hover{
+    background: grey;
+}
+.card1{
+   
+    box-shadow: 0px 4px 8px salmon;
+    border-radius: 20px;
+}
+.card2{
+    box-shadow: 0px 4px 8px salmon;
+    border-radius: 20px;
+}
+.card3{
+    box-shadow: 0px 4px 8px salmon;
+    border-radius: 20px;
+}
+.card4{
+    box-shadow: 0px 4px 8px salmon;
+    border-radius: 20px;
+}
+.card5{
+    box-shadow: 0px 4px 8px salmon;
+    border-radius: 20px;
+}
+.card6{
+    box-shadow: 0px 4px 8px salmon;
+    border-radius: 20px;
+}
+.heading1{
+    margin:65px;
+}
+.heading2{
+    margin:65px;
+}
+
+.carousel img{
+height:100vh;
+}
